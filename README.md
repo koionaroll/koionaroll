@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/koionaroll](github.com/koionaroll)
 
-- 💬 Ask me about **reactJs, nodeJs, computer hardware or video games.**
+- 💬 Ask me about **reactJs, nodeJs, computer hardware or games.**
 
 - 📫 How to reach me **tranvankhoi2002@gmail.com**
 
