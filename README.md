@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tranvankhoi2002@gmail.com**
 
-- 📄 Know about my experiences [TBD](TBD)
+- 📄 Know about my experiences [https://tranvankhoi.netlify.app/](https://tranvankhoi.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
